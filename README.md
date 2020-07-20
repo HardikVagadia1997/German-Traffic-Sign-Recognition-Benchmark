@@ -20,5 +20,6 @@ Please visit this kaggle page for downloading the dataset :
 [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 ## Final Scores :
-Test Weighted F1-Score : 0.98\n
+Test Weighted F1-Score : 0.98
+
 Test MSE for bounding box : 0.62
